@@ -1,0 +1,19 @@
+> init
+<<<
++ wug.txt wug.txt
+> add wug.txt
+<<<
+> commit "message"
+<<<
+> rm wug.txt
+<<<
+> commit "anotherMessage"
+<<<
+* wug.txt
+> branch "branch"
+<<<
+> checkout "branch"
+<<<
+> checkout "master"
+<<<
+* wug.txt
